@@ -1,8 +1,10 @@
 Francheska Guzman
 
-<h1> Brokerage </h1>
 
-## Table of content
+
+# Brokerage
+
+### Table of content
 
 1. [Description](#description)
 2. [User Stories](#user-stories)
