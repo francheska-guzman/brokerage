@@ -17,7 +17,7 @@ Francheska Guzman
 
 Brokerage is a powerful platform where users can track U.S. Stock Market changes, get access to Global Business and Financial News, as well manage their own Watchlist and Portfolio.
 
-This project is a redesigned, dynamic version of my [Stock Market](https://github.com/francheska-guzman/stock-market) web application. The Stock Market was my [Per Scholas](https://perscholas.org/apply/codebridge)' final project on March 2017, developed using HTML, CSS and JavaScript.
+This project is a redesigned, dynamic version of [Stock Market](https://github.com/francheska-guzman/stock-market). The Stock Market was my [Per Scholas](https://perscholas.org/apply/codebridge)' final project on March 2017, developed using HTML, CSS and JavaScript.
 
 </a>
 
