@@ -5,8 +5,6 @@ import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
 
-RouterModule.forRoot(routerConfig, { useHash: true })
-
 @NgModule({
   declarations: [
     AppComponent
