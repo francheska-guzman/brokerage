@@ -58,14 +58,16 @@ This project is a redesigned, dynamic version of [Stock Market](https://github.c
 
 ### Technologies Used
 
-* AngularJS
-* A library to create charts
+* Angular 2
+* Angular CLI
+* NPM
 * Node.js
 * Express.js
 * PostgreSQL
 * RESTful API
 * Third parties APIs for the U.S. Stock Market data and news.
 * oAuth
+* A library to create charts
 
 </a>
 
