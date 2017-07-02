@@ -1,6 +1,4 @@
-Francheska Guzman
-
-
+Francheska Guzman | Project started on July 1, 2017
 
 # Brokerage
 
