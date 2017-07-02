@@ -12,6 +12,7 @@ Francheska Guzman | Project started on July 1, 2017
 6. [Database](#database)
 7. [Technologies Used](#technologies-used)
 8. [Challenges](#challenges)
+9. [Resources](#resources)
 
 <a id="description">
 
@@ -80,3 +81,11 @@ This project is a redesigned, dynamic version of [Stock Market](https://github.c
 
 </a>
 
+<a id="resources">
+
+### Resources
+
+- [Angular Documentation](https://angular.io/guide/quickstart)
+- [Building a Simple Full-Stack App with Angular 2, Node.js, and Authentication](https://www.lynda.com/AngularJS-tutorials/Building-Simple-Full-Stack-App-Angular-2-Node/576588-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3aBuilding+a+Simple+Full-Stack+App+with+Angular+2%2c+Node.js%2c+and+Authentication%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) by Alexander Zanfir at Lynda.com
+
+</a>
