@@ -58,7 +58,7 @@ This project is a redesigned, dynamic version of [Stock Market](https://github.c
 
 ### Technologies Used
 
-* Angular 2
+* AngularJS 2
 * Angular CLI
 * NPM
 * Node.js
