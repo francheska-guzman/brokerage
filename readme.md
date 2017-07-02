@@ -24,3 +24,9 @@ As a user, I want to be able to add and delete stocks from my Watchlist.
 
 As a user, I would like a green text color/up arrow for gains, and red text color/down arrow for losses.
 
+### Challenges
+
+1. I will be using for the first time oAuth.
+2. I will be using for the first time AngularJS 2.
+3. The buy and sell stocks will be a real interaction between opened accounts.
+
