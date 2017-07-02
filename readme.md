@@ -6,7 +6,7 @@ Francheska Guzman
 
 Brokerage is a powerful platform, and a redesigned version of my [Stock Market](https://github.com/francheska-guzman/stock-market) web application. The Stock Market was my [Per Scholas](https://perscholas.org/apply/codebridge)' final project on March 2017, developed using HTML, CSS and JavaScript.
 
-I decided to start the new version of my Stock Market project, Brokerage, by using the following technologies:
+I decided to start a new version of my Stock Market project, Brokerage, that will be more dynamic by using the following technologies:
 
 * AngularJS
 * Charts library
