@@ -5,9 +5,13 @@ Francheska Guzman | Project started on July 1, 2017
 ### Table of content
 
 1. [Description](#description)
-2. [User Stories](#user-stories)
-3. [Technologies Used](#technologies-used)
-4. [Challenges](#challenges)
+2. [Project Management](https://github.com/francheska-guzman/brokerage#boards?repos=95994166)
+3. [User Stories](#user-stories)
+4. [Wireframes](#wireframes)
+5. [Pseudocode](#pseudocode)
+6. [Database](#database)
+7. [Technologies Used](#technologies-used)
+8. [Challenges](#challenges)
 
 <a id="description">
 
@@ -32,18 +36,36 @@ This project is a redesigned, dynamic version of [Stock Market](https://github.c
 
 </a>
 
+<a id="wireframes">
+
+### Wireframes
+
+</a>
+
+<a id="pseudocode">
+
+### Pseudocode
+
+</a>
+
+<a id="database">
+
+### Database
+
+</a>
+
 <a id="technologies-used">
 
 ### Technologies Used
 
 * AngularJS
+* A library to create charts
 * Node.js
 * Express.js
 * PostgreSQL
-* RESTful API (CRUD)
-* Third parties APIs (Global Business and Financial News, and the U.S. Stock Market Data)
+* RESTful API
+* Third parties APIs for the U.S. Stock Market data and news.
 * oAuth
-* A charts library
 
 </a>
 
@@ -51,8 +73,7 @@ This project is a redesigned, dynamic version of [Stock Market](https://github.c
 
 ### Challenges
 
-- I will be using for the first time oAuth.
-- I will be using for the first time AngularJS 2.
+- I will be using for the first time oAuth and AngularJS 2.
 - The buy and sell stocks will be a real interaction between opened accounts.
 
 </a>
