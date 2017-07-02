@@ -9,12 +9,13 @@ Brokerage is a powerful platform, and a redesigned version of my [Stock Market](
 I decided to start a new version of my Stock Market project, Brokerage, that will be more dynamic by using the following technologies:
 
 * AngularJS
-* Charts library
+* A charts library
 * Node.js
 * Express.js
 * PostgreSQL
 * RESTful API (CRUD)
 * Third parties APIs (Global Business and Financial News, and the U.S. Stock Market Data)
+* oAuth
 
 
 ### User stories
