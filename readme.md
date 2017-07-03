@@ -77,7 +77,7 @@ This project is a redesigned, dynamic version of [Stock Market](https://github.c
 
 ### Challenges
 
-- I will be using for the first time oAuth and AngularJS 2.
+- I will be using for the first time Authentication and AngularJS 2.
 - The buy and sell stocks will be a real interaction between opened accounts.
 
 </a>
