@@ -28,12 +28,13 @@ This project is a redesigned, dynamic version of [Stock Market](https://github.c
 
 ### User Stories
 
-- As a user, I would like to open an account in Brokerage.
+- As a new user, I would like to open an account in Brokerage.
+- As an existing user, I would like a login/logout option.
 - As a user, I would like articles and news to keep me informed on the markets.
 - As a user, I want to track changes in my Portfolio and Watchlist, and see the performance over the time.
-- As a user, I want to buy and sell stocks.
+- As a user interested in trade, I want to buy and sell stocks.
 - As a user, I want to be able to add and delete stocks from my Watchlist.
-- As a user, I would like a green text color and up arrow for gains, as well a red text color and down arrow for losses.
+- As a user who wants to detect easily gains and losses, I would like a green color/up arrow for gains, and red color/down arrow for losses.
 
 </a>
 
@@ -67,7 +68,7 @@ This project is a redesigned, dynamic version of [Stock Market](https://github.c
 * PostgreSQL
 * RESTful API
 * Third parties APIs for the U.S. Stock Market data and news.
-* oAuth
+* Authentication
 * A library to create charts
 
 </a>
