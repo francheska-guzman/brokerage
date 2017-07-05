@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { LogoComponent } from './logo/logo.component';
 import { NavigationComponent } from './navigation/navigation.component';
 
 @Component({
@@ -7,5 +8,5 @@ import { NavigationComponent } from './navigation/navigation.component';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Brokerage';
+  
 }
