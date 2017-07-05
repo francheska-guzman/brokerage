@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Cantarell|Cuprum');
+
+body {
+	margin: 0;
+}
+
+h1 {
+	display: inline-block;
+	font-family: 'Cuprum', sans-serif;
+	font-size: 40px;
+	color: #262728;
+}
+
+nav {
+	display: inline-block;
+}
+
+.flex {
+	display: flex;
+}
+
+header {
+	background: url('/assets/images/');
+	display: inline-block;
+}
+
+ul {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+	font-family: 'Cantarell', sans-serif;
+	font-size: 20px;
+	color: #272828;
+}
