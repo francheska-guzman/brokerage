@@ -1,32 +1,30 @@
-Francheska Guzman | Project started on July 1, 2017
-
 # Brokerage
 
 ### Table of content
 
-1. [Description](#description)
-2. [Project Management](https://github.com/francheska-guzman/brokerage#boards?repos=95994166)
-3. [User Stories](#user-stories)
-4. [Wireframes](#wireframes)
-5. [Pseudocode](#pseudocode)
-6. [Database](#database)
-7. [Technologies Used](#technologies-used)
-8. [Challenges](#challenges)
-9. [Resources](#resources)
+1. [About the project](#about)
+2. [Description](#description)
+3. [Project Management](https://github.com/francheska-guzman/brokerage#boards?repos=95994166)
+4. [User Stories](#user-stories)
+5. [Wireframes](#wireframes)
+6. [Pseudocode](#pseudocode)
+7. [Database](#database)
+8. [Technologies Used](#technologies-used)
+9. [Challenges](#challenges)
+10. [Resources](#resources)
 
-<a id="description">
+## <a id="about">About the project</a>
 
-### Description
+A personal project started on July 1, 2017 with the intention to learn Angular JS 2.<br />
+Developed by Francheska Guzman
+
+## <a id="description">Description</a>
 
 Brokerage is a powerful platform where users can track U.S. Stock Market changes, get access to Global Business and Financial News, as well manage their own Watchlist and Portfolio.
 
 This project is a redesigned, dynamic version of [Stock Market](https://github.com/francheska-guzman/stock-market). The Stock Market was my [Per Scholas](https://perscholas.org/apply/codebridge)' final project on March 2017, developed using HTML, CSS and JavaScript. 
 
-</a>
-
-<a id="user-stories">
-
-### User Stories
+## <a id="user-stories">User stories</a>
 
 - As a new user, I would like to open an account in Brokerage.
 - As an existing user, I would like a login/logout option.
@@ -36,29 +34,13 @@ This project is a redesigned, dynamic version of [Stock Market](https://github.c
 - As a user, I want to be able to add and delete stocks from my Watchlist.
 - As a user who wants to detect easily gains and losses, I would like a green color/up arrow for gains, and red color/down arrow for losses.
 
-</a>
+## <a id="wireframes">Wireframes</a>
 
-<a id="wireframes">
+## <a id="pseudocode">Pseudocode</a>
 
-### Wireframes
+## <a id="database">Database</a>
 
-</a>
-
-<a id="pseudocode">
-
-### Pseudocode
-
-</a>
-
-<a id="database">
-
-### Database
-
-</a>
-
-<a id="technologies-used">
-
-### Technologies Used
+## <a id="technologies-used">Technologies used</a>
 
 * AngularJS 2
 * Angular CLI
@@ -71,22 +53,12 @@ This project is a redesigned, dynamic version of [Stock Market](https://github.c
 * Authentication
 * A library to create charts
 
-</a>
-
-<a id="challenges">
-
-### Challenges
+## <a id="challenges">Challenges</a>
 
 - I will be using for the first time Authentication and AngularJS 2.
 - The buy and sell stocks will be a real interaction between opened accounts.
 
-</a>
-
-<a id="resources">
-
-### Resources
+## <a id="resources">Resources</a>
 
 - [Angular Documentation](https://angular.io/guide/quickstart)
 - [Building a Simple Full-Stack App with Angular 2, Node.js, and Authentication](https://www.lynda.com/AngularJS-tutorials/Building-Simple-Full-Stack-App-Angular-2-Node/576588-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3aBuilding+a+Simple+Full-Stack+App+with+Angular+2%2c+Node.js%2c+and+Authentication%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) by Alexander Zanfir at Lynda.com
-
-</a>
