@@ -15,7 +15,7 @@
 
 ## <a id="about">About the project</a>
 
-A personal project started on July 1, 2017 with the intention to learn Angular JS 2.<br />
+A personal project started on July 1, 2017.<br />
 Developed by Francheska Guzman
 
 ## <a id="description">Description</a>
