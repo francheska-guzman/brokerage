@@ -1,17 +1,18 @@
-# Brokerage
+# <a id="project">Brokerage</a>
 
-### Table of content
+### Table of contents
 
 1. [About the project](#about)
 2. [Description](#description)
-3. [Project Management](https://github.com/francheska-guzman/brokerage#boards?repos=95994166)
-4. [User Stories](#user-stories)
+3. [Project management](https://github.com/francheska-guzman/brokerage#boards?repos=95994166)
+4. [User stories](#user-stories)
 5. [Wireframes](#wireframes)
 6. [Pseudocode](#pseudocode)
 7. [Database](#database)
-8. [Technologies Used](#technologies-used)
+8. [Technologies used](#technologies-used)
 9. [Challenges](#challenges)
 10. [Resources](#resources)
+11. [How to see](#deployment)
 
 ## <a id="about">About the project</a>
 
@@ -62,3 +63,9 @@ This project is a redesigned, dynamic version of [Stock Market](https://github.c
 
 - [Angular Documentation](https://angular.io/guide/quickstart)
 - [Building a Simple Full-Stack App with Angular 2, Node.js, and Authentication](https://www.lynda.com/AngularJS-tutorials/Building-Simple-Full-Stack-App-Angular-2-Node/576588-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3aBuilding+a+Simple+Full-Stack+App+with+Angular+2%2c+Node.js%2c+and+Authentication%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) by Alexander Zanfir at Lynda.com
+
+## <a id="deployment">How to see</a>
+
+### Brokerage App: [https://francheska-guzman.github.io/brokerage](https://francheska-guzman.github.io/brokerage)
+
+#### [Go back to the Table of Contents](#project)
