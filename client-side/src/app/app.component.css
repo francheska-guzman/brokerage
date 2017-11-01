@@ -13,11 +13,12 @@ body {
 	margin: 0;
 }
 
-h1 {
+.brokerage-title {
 	display: inline-block;
 	font-family: 'Cuprum', sans-serif;
 	font-size: 40px;
 	color: #262728;
+	margin: 20px;
 }
 
 header {
