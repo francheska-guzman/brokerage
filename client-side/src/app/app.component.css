@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Cantarell|Cuprum');
+@import url('https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700');
 
 /* HTML Tags */
 
@@ -15,7 +15,8 @@ body {
 
 .brokerage-title {
 	display: inline-block;
-	font-family: 'Cuprum', sans-serif;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: 400;
 	font-size: 40px;
 	color: #262728;
 	margin: 20px;
