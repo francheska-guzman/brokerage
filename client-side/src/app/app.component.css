@@ -1,30 +1,33 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700');
 
-/* HTML Tags */
-
-a {
-	text-decoration: none;
-	font-family: 'Cantarell', sans-serif;
-	font-size: 18px;
-	color: #272828;
-}
-
 body {
 	margin: 0;
 }
 
-.brokerage-title {
-	display: inline-block;
+.main-title {
 	font-family: 'Quicksand', sans-serif;
 	font-weight: 400;
 	font-size: 40px;
 	color: #262728;
-	margin: 20px;
+	display: inline-block;
+}
+
+.main-nav {
+	font-family: 'Quicksand', sans-serif;
+	font-weight: 300;
+	font-size: 20px;
+	display: inline-block;
+}
+
+.main-nav a {
+	text-decoration: none;
+	padding: 10px;
 }
 
 header {
 	background: url('/assets/images/');
 	display: inline-block;
+	padding: 20px;
 }
 
 nav {
