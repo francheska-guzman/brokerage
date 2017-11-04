@@ -9,7 +9,7 @@ import { HomeComponent } from './home/home.component';
 import { PageNotFoundComponent } from './pagenotfound/pagenotfound.component';
 
 const appRoutes: Routes = [
-  { path: '', component: HomeComponent },
+  { path: '/home', component: HomeComponent },
   { path: '**', component: PageNotFoundComponent }
 ];
 
