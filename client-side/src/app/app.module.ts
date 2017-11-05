@@ -3,31 +3,26 @@ import { NgModule } from '@angular/core';
 import { Routes } from '@angular/router';
 
 import { AppComponent } from './app.component';
-import { NavigationComponent } from './navigation/navigation.component';
+
+// Header
 import { LogoComponent } from './logo/logo.component';
+import { NavigationComponent } from './navigation/navigation.component';
+
+// Pages
 import { HomeComponent } from './home/home.component';
 import { PageNotFoundComponent } from './pagenotfound/pagenotfound.component';
 
 const appRoutes: Routes = [
-  {
-    path: 'home', 
-    component: HomeComponent
-  },
-  { 
-    path: '',
-    redirectTo: 'home',
-    pathMatch: 'full'
-  },
-  { 
-    path: '**', 
-    component: PageNotFoundComponent }
+  { path: 'home', component: HomeComponent, outlet: 'home' },
+  { path: '', redirectTo: 'home', pathMatch: 'full' },
+  { path: '**', component: PageNotFoundComponent }
 ];
 
 @NgModule({
   declarations: [
     AppComponent,
-    NavigationComponent,
     LogoComponent,
+    NavigationComponent,
     HomeComponent,
     PageNotFoundComponent
   ],
