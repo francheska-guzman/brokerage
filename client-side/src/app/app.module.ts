@@ -2,13 +2,11 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
+// Components for the single-web app.
 import { AppComponent } from './app.component';
-
-// Header
 import { LogoComponent } from './logo/logo.component';
 import { NavigationComponent } from './navigation/navigation.component';
-
-// Pages
+import { FooterComponent } from './footer/footer.component';
 import { HomeComponent } from './home/home.component';
 import { NewsComponent } from './news/news.component';
 import { PortfolioComponent } from './portfolio/portfolio.component';
@@ -27,6 +25,7 @@ const appRoutes: Routes = [
     AppComponent,
     LogoComponent,
     NavigationComponent,
+    FooterComponent,
     HomeComponent,
     NewsComponent,
     PortfolioComponent,

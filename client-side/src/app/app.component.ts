@@ -1,6 +1,7 @@
 import { Component, Input } from '@angular/core';
 import { LogoComponent } from './logo/logo.component';
 import { NavigationComponent } from './navigation/navigation.component';
+import { FooterComponent } from './footer/footer.component';
 import { HomeComponent } from './home/home.component';
 import { PageNotFoundComponent } from './pagenotfound/pagenotfound.component';
 
