@@ -16,7 +16,7 @@
 
 ## <a id="about">About the project</a>
 
-A personal project started on July 1, 2017.<br />
+Project started on July 1, 2017.<br />
 Developed by Francheska Guzman
 
 ## <a id="description">Description</a>
@@ -43,16 +43,15 @@ This project is a redesigned, dynamic version of [Stock Market](https://github.c
 
 ## <a id="technologies-used">Technologies used</a>
 
-* AngularJS 2
+* Angular 2
 * Angular CLI
-* NPM
 * Node.js
 * Express.js
 * PostgreSQL
 * RESTful API
 * Third parties APIs for the U.S. Stock Market data and news.
 * Authentication
-* A library to create charts
+* A library to create charts.
 
 ## <a id="challenges">Challenges</a>
 
