@@ -5,7 +5,7 @@
   "scripts": {
     "deploy": "ng build -sm -ec -bh /repo name/ & ngh --no-silent",
     "ng": "ng",
-    "start": "ng serve",
+    "start": "ng serve -o",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
