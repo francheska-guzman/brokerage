@@ -16,7 +16,6 @@
 
 ## <a id="about">About the project</a>
 
-Project started on July 1, 2017.<br />
 Developed by Francheska Guzman
 
 ## <a id="description">Description</a>
@@ -43,6 +42,9 @@ This project is a redesigned, dynamic version of [Stock Market](https://github.c
 
 ## <a id="technologies-used">Technologies used</a>
 
+* HTML
+* CSS
+* TypeScript
 * Angular 2
 * Angular CLI
 * Node.js
@@ -61,7 +63,7 @@ This project is a redesigned, dynamic version of [Stock Market](https://github.c
 ## <a id="resources">Resources</a>
 
 - [Angular Documentation](https://angular.io/guide/quickstart)
-- [Building a Simple Full-Stack App with Angular 2, Node.js, and Authentication](https://www.lynda.com/AngularJS-tutorials/Building-Simple-Full-Stack-App-Angular-2-Node/576588-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3aBuilding+a+Simple+Full-Stack+App+with+Angular+2%2c+Node.js%2c+and+Authentication%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) by Alexander Zanfir at Lynda.com
+- [Building a Simple Full-Stack App with Angular 2, Node.js, and Authentication (Lynda.com)](https://www.lynda.com/AngularJS-tutorials/Building-Simple-Full-Stack-App-Angular-2-Node/576588-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3aBuilding+a+Simple+Full-Stack+App+with+Angular+2%2c+Node.js%2c+and+Authentication%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) by Alexander Zanfir
 
 ## <a id="deployment">How to see</a>
 
