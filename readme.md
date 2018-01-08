@@ -45,7 +45,7 @@ This project is a redesigned, dynamic version of [Stock Market](https://github.c
 * HTML
 * CSS
 * TypeScript
-* Angular 2
+* Angular
 * Angular CLI
 * Node.js
 * Express.js
@@ -57,7 +57,6 @@ This project is a redesigned, dynamic version of [Stock Market](https://github.c
 
 ## <a id="challenges">Challenges</a>
 
-- I will be using for the first time Authentication and AngularJS 2.
 - The buy and sell stocks will be a real interaction between opened accounts.
 
 ## <a id="resources">Resources</a>
