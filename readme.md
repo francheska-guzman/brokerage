@@ -66,6 +66,6 @@ This project is a redesigned, dynamic version of [Stock Market](https://github.c
 
 ## <a id="deployment">How to see</a>
 
-### Brokerage App: [https://francheska-guzman.github.io/brokerage](https://francheska-guzman.github.io/brokerage)
+### Brokerage App: URL soon
 
 #### [Go back to the Table of Contents](#project)
